@@ -5,6 +5,6 @@ __pycache__
 .pylintrc
 
 # faiss vdbs
-faiss-vdbs
+# faiss-vdbs
 *.pkl
-*.faiss
+# *.faiss
